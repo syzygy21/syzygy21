@@ -7,4 +7,4 @@
 - Currently a robotics masters student at UMD.
 
 ## Connect with me
-![image](https://github.com/user-attachments/assets/1e69d620-8fd9-4431-a423-b73fbd8eb1c5)
+[![LinkedIn](https://github.com/user-attachments/assets/060ae803-cbbd-4539-b47c-09d65ed190f9)](https://www.linkedin.com/in/navdeep-singh-8b2bab194/)
