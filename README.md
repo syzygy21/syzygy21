@@ -14,7 +14,7 @@
 </a>
 
 ## Languages and Tools:
-<img src="https://github.com/user-attachments/assets/fdb85559-3b31-4495-91c8-f815add0e253" alt="Image" width="100" height="100" /> <img src="https://github.com/user-attachments/assets/0cb5abde-1f8a-404e-be5f-0b746e10f7fc" alt="Image" width="100" height="100" /> <img src="https://github.com/user-attachments/assets/d9338e5e-5107-440d-9943-39f06f529520" alt="Image" width="100" height="100" /> <img src= alt="Image" width="100" height="100" /> 
+<img src="https://github.com/user-attachments/assets/fdb85559-3b31-4495-91c8-f815add0e253" alt="Image" width="100" height="100" /> <img src="https://github.com/user-attachments/assets/0cb5abde-1f8a-404e-be5f-0b746e10f7fc" alt="Image" width="100" height="100" /> <img src="https://github.com/user-attachments/assets/d9338e5e-5107-440d-9943-39f06f529520" alt="Image" width="100" height="100" /> <img src= alt="Image" width="100" height="100" /> <img src= "https://github.com/user-attachments/assets/8152cdb4-9bcc-4348-889a-52442c7c9b25" alt="Image" width="100" height="100" />
 
 
 
