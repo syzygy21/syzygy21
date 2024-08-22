@@ -12,3 +12,7 @@
 <a href=https://www.linkedin.com/in/navdeep-singh-8b2bab194/>
     <img src="https://github.com/user-attachments/assets/060ae803-cbbd-4539-b47c-09d65ed190f9" alt="LinkedIn" width="40" />
 </a>
+
+## Languages and Tools:
+![image](https://github.com/user-attachments/assets/fdb85559-3b31-4495-91c8-f815add0e253)
+
