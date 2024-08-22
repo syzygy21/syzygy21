@@ -14,5 +14,6 @@
 </a>
 
 ## Languages and Tools:
-![image](https://github.com/user-attachments/assets/fdb85559-3b31-4495-91c8-f815add0e253)
+<img src="https://github.com/user-attachments/assets/fdb85559-3b31-4495-91c8-f815add0e253" alt="Image" width="100" height="100" />
+
 
