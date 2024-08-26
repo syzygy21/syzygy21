@@ -16,18 +16,15 @@
 ## Languages and Tools:
 <img src="https://github.com/user-attachments/assets/fdb85559-3b31-4495-91c8-f815add0e253" alt="Image" width="40" height="40" /> <img src="https://github.com/user-attachments/assets/0cb5abde-1f8a-404e-be5f-0b746e10f7fc" alt="Image" width="40" height="40" /> <img src="https://github.com/user-attachments/assets/d9338e5e-5107-440d-9943-39f06f529520" alt="Image" width="40" height="40" /> <img src= "https://github.com/user-attachments/assets/8152cdb4-9bcc-4348-889a-52442c7c9b25" alt="Image" width="40" height="40" /> <img src= "https://github.com/user-attachments/assets/f5215091-16b7-453a-8bc0-8cfb823e3522" alt="Image" width="40" height="40" /> <img src= "https://github.com/user-attachments/assets/be7fb5b6-e8f9-4726-8cf4-ecfe422d041f" alt="Image" width="40" height="40" /> <img src= "https://github.com/user-attachments/assets/7caf574f-51be-4809-9ac1-b01b5ac18417" alt="Image" width="40" height="40" /> <img src= "https://github.com/user-attachments/assets/01f26404-10e5-47f4-bf8b-7b68adfabab2" alt="Image" width="100" height="40" /> <img src= "https://github.com/user-attachments/assets/304799c7-b276-4a81-8e74-b19ed0fa4f20" alt="Image" width="40" height="40" /> <img src= "https://github.com/user-attachments/assets/74b5b652-3351-4131-9ab6-50b191f4d3ed" alt="Image" width="40" height="40" /> 
 
-## Computer Vision/Deep Learing Projects
+## Computer Vision/Deep Learing Project Repositories
 
-![Repository Name](https://img.shields.io/badge/Repository-part_dimensions_project-blue?style=flat-square)
+[part_dimensions_project](https://github.com/syzygy21/part_dimensions_project)
+[Realtime_segmentation](https://github.com/syzygy21/Realtime_segmentation)
+[stereo_vision](https://github.com/syzygy21/stereo_vision)
+[Emotion_detection](https://github.com/syzygy21/Emotion_detection)
+[Structure-from-Motion-and-Bundle-Adjustment](https://github.com/syzygy21/Structure-from-Motion-and-Bundle-Adjustment)
+[stereo_vision](https://github.com/syzygy21/stereo_vision)
+[yolov8_object_detection_on_visdrone_dataset](https://github.com/syzygy21/yolov8_object_detection_on_visdrone_dataset)
 
-![Repository Name](https://img.shields.io/badge/Repository-Realtime_segmentation-blue?style=flat-square)
-
-![Repository Name](https://img.shields.io/badge/Repository-stereo_vision-blue?style=flat-square)
-
-![Repository Name](https://img.shields.io/badge/Repository-Emotion_detection-blue?style=flat-square)
-
-![Repository Name](https://img.shields.io/badge/Repository-Structure-from-motion-and-Bundle-Adjustment-blue?style=flat-square)
-
-![Repository Name](https://img.shields.io/badge/Repository-stereo_vision-blue?style=flat-square)
 
 
