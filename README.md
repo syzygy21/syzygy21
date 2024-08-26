@@ -19,11 +19,17 @@
 ## Computer Vision/Deep Learing Project Repositories
 
 [part_dimensions_project](https://github.com/syzygy21/part_dimensions_project)
+
 [Realtime_segmentation](https://github.com/syzygy21/Realtime_segmentation)
+
 [stereo_vision](https://github.com/syzygy21/stereo_vision)
+
 [Emotion_detection](https://github.com/syzygy21/Emotion_detection)
+
 [Structure-from-Motion-and-Bundle-Adjustment](https://github.com/syzygy21/Structure-from-Motion-and-Bundle-Adjustment)
+
 [stereo_vision](https://github.com/syzygy21/stereo_vision)
+
 [yolov8_object_detection_on_visdrone_dataset](https://github.com/syzygy21/yolov8_object_detection_on_visdrone_dataset)
 
 
