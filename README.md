@@ -32,5 +32,15 @@
 
 [yolov8_object_detection_on_visdrone_dataset](https://github.com/syzygy21/yolov8_object_detection_on_visdrone_dataset)
 
+## Robotics Algorithmic Projects
+
+[Dynamic-Deep-RRT-Star](https://github.com/syzygy21/Dynamic-Deep-RRT-Star)
+
+[djikstra-s_algorithm_implementation](https://github.com/syzygy21/djikstra-s_algorithm_implementation)
+
+[A-star-on-turtlebot](https://github.com/syzygy21/A-star-on-turtlebot)
+
+[A-star-implementation-on-a-point-robot](https://github.com/syzygy21/A-star-implementation-on-a-point-robot)
+
 
 
