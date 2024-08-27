@@ -28,8 +28,6 @@
 
 [Structure-from-Motion-and-Bundle-Adjustment](https://github.com/syzygy21/Structure-from-Motion-and-Bundle-Adjustment)
 
-[stereo_vision](https://github.com/syzygy21/stereo_vision)
-
 [yolov8_object_detection_on_visdrone_dataset](https://github.com/syzygy21/yolov8_object_detection_on_visdrone_dataset)
 
 ## Robotics Algorithmic Projects
