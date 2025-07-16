@@ -1,8 +1,6 @@
 ## Navdeep Singh
 
 - I’m currently working on applying instance segmentation to seperate the region of interest from images of 3d printed parts so as to carry out their measurements as a part of the [MIRAGE Lab](https://forms.office.com/r/sPbi8khC7G) at UMD.
-- I’m currently also carrying out an independent study under [Prof. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) who is leading the [GAMMA Lab](https://gamma.umd.edu/) at UMD. I am working on Large Language Models and looking at 
-  ways of creating computationally efficient algorithms for carrying alignment of LLMs that do not compromise on the alignment quality.
 - I have extensive experience with computer vision, deep learning, AI and LLMs
 - I have extensive experience with robotics control, path planning, ROS, Gazebo
 - I’m looking to collaborate on any research project that involves multimodal deep learning, 3d deep learning and generative AI.
